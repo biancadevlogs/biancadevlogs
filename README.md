@@ -33,6 +33,7 @@
   <img align="center" alt="Bianca-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bianca-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PHP" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Bianca-Dart" height="60" width="60" src="https://github.com/user-attachments/assets/f13b9b67-f785-4666-b076-1360bcf8c4a3" />
 </a>
 
 <br>
