@@ -9,7 +9,17 @@
 <img width="800" height="900" alt="586ea395-7c8f-47fb-b551-07edf0de9270-Photoroom" src="https://github.com/user-attachments/assets/3a3821f6-4a3d-4c7e-aba3-8ecfb178ddc1"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/biancadevlogs/biancadevlogs/output/snake.svg" alt="Animação de cobra" width="1000"/>
+<!-- <img src="https://raw.githubusercontent.com/biancadevlogs/biancadevlogs/output/snake.svg" alt="Animação de cobra" width="1000"/> -->
+
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biancadevlogs/biancadevlogs/output/github-contribution-grid-snake-dark.svg" alt="animação de cobrinha" width=1000>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biancadevlogs/biancadevlogs/output/github-contribution-grid-snake.svg" alt="animação de cobrinha" width=1000>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/biancadevlogs/biancadevlogs/output/github-contribution-grid-snake.svg" alt="animação de cobrinha" width=1000>
+</picture>
 
 ***
 <br>
